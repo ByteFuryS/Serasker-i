@@ -50,6 +50,6 @@
 
 
 ## Contact Information
-- 📧 E-posta: [burakali__ozturk@outlook.com.tr](mailto:burakali__ozturk@outlook.com.tr)
+- 📧 email: [burakali__ozturk@outlook.com.tr](mailto:burakali__ozturk@outlook.com.tr)
 - 🔗 LinkedIn: [https://www.linkedin.com/in/burakaliozturk/](https://www.linkedin.com/in/burakaliozturk/)
 
