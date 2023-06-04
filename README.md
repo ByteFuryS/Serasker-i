@@ -1,7 +1,5 @@
 # Hello, I am Burakali Öztürk! 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LemXat.LemXat)
-
 ![GitHub followers](https://img.shields.io/github/followers/LemXat?style=social)
 
 ## About Me
