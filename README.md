@@ -1,6 +1,5 @@
 # Hello, I am Burakali Öztürk! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/LemXat?style=social)
 
 ## About Me
 - 🎓 I graduated from Kozmos Software Anatolian High School with a 4-year education and an average of 85.1766.
@@ -10,15 +9,16 @@
 ## my certificates 🏆
 | Certificate | Date | Organization | 
 |-----------|-------|-------|
-| Cyber Defense | 2023-03 | TryHackme |
-| Advent Of Cyber 2022 | 2022-12 | TryHackme |
-| Jr Penetration Tester | 2022-12 | TryHackme |
-| Web Fundamentals | 2022-12 | TryHackme |
-| Advent Of Cyber 2021 | 2022-11 | TryHackme |
-| CompTIA Pentest+ | 2022-11 | TryHackme |
-| Complete Beginner | 2022-11 | TryHackme |
-| Introduction to Cyber Security | 2022-9 | TryHackme |
-| Pre Security | 2022-9 | TryHackme |
+| Professional Cyber Security Analyst | 2023-12 | İBM |
+| Detection Engineering | 2023-11 | LetsDefend |
+| Ethical Hacker | 2023-10 | Cisco |
+| Linkedin'S AI Academy | 2023-8 | Linkedin |
+| Red Team | 2023-7 | TryHackme |
+| Malware Analysis | 2023-10 | LetsDefend |
+| Incident Responder | 2023-10 | LetsDefend |
+| SOC Level 1 | 2023-9 | TryHackme |
+| SOC Level 2 | 2023-11 | TryHackme |
+| Security Engineer | 2023-11 | TryHackme |
 
 #
 -You can check my LinkedIn profile for my other certificates. :D
